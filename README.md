@@ -4,10 +4,10 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License](https://img.shields.io/github/license/facebook/react?style=flat-square)](https://github.com/facebook/react/blob/main/LICENSE)
 [![Stars](https://img.shields.io/github/stars/facebook/react?style=social)](https://github.com/facebook/react/stargazers)
-[![Forks](https://img.shields.io/github/forks/facebook/react?style=social)](https://github.com/facebook/react/network)
-[![Open Issues](https://img.shields.io/github/issues/facebook/react?style=flat-square)](https://github.com/facebook/react/issues)
+[![Forks](https://img.shields.io/github/forks/facebook/react?style=social)](https://twitter.com/arinBuilds)
+[![Open Issues](https://img.shields.io/github/issues/facebook/react?style=flat-square)](https://twitter.com/arinBuilds)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/facebook/react/pulls)
-[![Twitter Follow](https://img.shields.io/twitter/follow/arinagr05?style=social)](https://twitter.com/arinagr05)
+[![Twitter Follow](https://img.shields.io/twitter/follow/arinBuilds?style=social)](https://twitter.com/arinBuilds)
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#-contributors)
 
 
@@ -31,7 +31,6 @@ A curated list of **practical AI tools, APIs, projects, and resources** you can 
 | [🌎 Communities & Learning](#-communities--learning) | Places to connect, share, and learn about AI |
 | [📚 Related Lists](#-related-lists) | More awesome curated AI collections |
 | [🤝 Contributing](#-contributing) | How to contribute your tools, APIs, or projects |
-| Good name | yess | [Repo](https://github.com/arinagrawal05/awesome-ai/issues) | [Website]((optional)) | Music |
 
 ---
 
